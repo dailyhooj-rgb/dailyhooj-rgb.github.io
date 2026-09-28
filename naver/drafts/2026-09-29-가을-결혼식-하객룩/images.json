@@ -1,0 +1,9 @@
+{
+  "theme": "warm",
+  "blogName": "지후맘의 육아 기록",
+  "images": [
+    { "file": "01-thumbnail.png", "type": "thumbnail", "label": "결혼 시즌", "title": "가을 결혼식 하객룩\n*실패 없는 공식*", "subtitle": "색상 · 소재 · 매너 한 번에" },
+    { "file": "02-checklist.png", "type": "list", "check": true, "title": "하객룩 *매너 체크*", "items": ["올화이트·아이보리 피하기", "과한 노출·화려한 장식 자제", "청바지·트레이닝복 금지", "톤다운 컬러로 단정하게", "편한 신발도 챙기기"] },
+    { "file": "03-quote.png", "type": "quote", "title": "주인공은 신부님\n*하객은 단정하게*", "subtitle": "차분한 가을 컬러가 정답이에요" }
+  ]
+}

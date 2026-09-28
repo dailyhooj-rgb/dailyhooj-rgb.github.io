@@ -1,0 +1,9 @@
+{
+  "theme": "warm",
+  "blogName": "지후맘의 육아 기록",
+  "images": [
+    { "file": "01-thumbnail.png", "type": "thumbnail", "label": "가을 나들이", "title": "아이와 가을 나들이\n*준비물 체크리스트*", "subtitle": "일교차 걱정 없는 10가지" },
+    { "file": "02-checklist.png", "type": "list", "check": true, "title": "가을 나들이 *준비물*", "items": ["얇은 겉옷 (바람막이·가디건)", "여벌옷 한 벌", "모자 · 손수건 · 물티슈", "상비약 파우치", "물 · 간식 · 돗자리", "낙엽 담을 봉투 · 쓰레기 봉투", "보조배터리"] },
+    { "file": "03-quote.png", "type": "quote", "title": "가을 옷차림은\n*양파처럼 겹쳐 입기*", "subtitle": "더우면 하나씩 벗기고, 추우면 다시 입히기" }
+  ]
+}

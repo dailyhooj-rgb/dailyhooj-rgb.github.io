@@ -1,0 +1,11 @@
+{
+  "theme": "warm",
+  "blogName": "지후맘의 살림 기록",
+  "images": [
+    { "file": "01-thumbnail.png", "type": "thumbnail", "label": "후쿠오카 쇼핑", "title": "후쿠오카 돈키호테\n*할인 쿠폰* 공유", "subtitle": "면세 10% + 최대 7% 추가 할인 · 텐진 추천템" },
+    { "file": "02-cta.png", "type": "cta", "label": "계산 전 필수", "title": "돈키호테\n*할인 쿠폰* 받기", "subtitle": "캡처는 안 돼요! 미리 열어두세요", "button": "쿠폰 받으러 가기" },
+    { "file": "03-how-to.png", "type": "list", "title": "돈키호테 *쿠폰 사용법*", "items": ["여행 전 쿠폰 페이지 미리 열어두기", "캡처 이미지는 사용 불가", "계산할 때 여권과 함께 보여주기", "세금 제외 1만 엔↑ 5%, 3만 엔↑ 7%", "결제 후에는 적용 안 돼요"] },
+    { "file": "04-benefit.png", "type": "list", "check": true, "title": "쿠폰 *혜택* 한눈에", "items": ["면세 10% (11월부터 공항 환급)", "추가 할인 최대 7%", "합쳐서 최대 약 17% 절약", "기념품을 국내보다 합리적으로", "쿠폰 없으면 할인 0원"] },
+    { "file": "05-cta-final.png", "type": "cta", "title": "계산대 앞에서\n*당황하지 마세요*", "subtitle": "쿠폰 하나로 최대 약 17% 절약", "button": "할인 쿠폰 지금 받기" }
+  ]
+}

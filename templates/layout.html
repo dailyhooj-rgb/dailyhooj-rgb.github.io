@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{pageTitle}}</title>
+  <meta name="description" content="{{description}}">
+  <link rel="stylesheet" href="{{base}}css/style.css">
+  <script src="{{base}}js/theme.js"></script>
+</head>
+<body>
+  <header class="site-header">
+    <nav class="nav">
+      <a href="{{base}}" class="nav__logo">{{siteTitle}}</a>
+      <div class="nav__links">
+        <a href="{{base}}" class="{{postsActive}}">Posts</a>
+        <a href="{{base}}tags.html" class="{{tagsActive}}">Tags</a>
+        <button class="theme-toggle" id="theme-toggle" aria-label="Toggle dark mode"></button>
+      </div>
+    </nav>
+  </header>
+  <main class="main">
+{{content}}
+  </main>
+  <footer class="site-footer">
+    <p>&copy; {{year}} {{siteTitle}}</p>
+  </footer>
+</body>
+</html>

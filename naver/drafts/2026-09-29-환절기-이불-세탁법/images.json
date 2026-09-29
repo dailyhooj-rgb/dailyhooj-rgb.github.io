@@ -1,9 +1,0 @@
-{
-  "theme": "warm",
-  "blogName": "지후맘의 육아 기록",
-  "images": [
-    { "file": "01-thumbnail.png", "type": "thumbnail", "label": "환절기 살림", "title": "환절기 이불 세탁법\n*이것만 지키세요*", "subtitle": "세탁 주기 · 온도 · 건조까지" },
-    { "file": "02-checklist.png", "type": "list", "check": true, "title": "이불 세탁 *체크리스트*", "items": ["세탁 라벨 먼저 확인", "이불 전용 코스 선택", "세탁기 용량의 60~70%만", "속까지 완전 건조", "보관 전 햇볕·환기"] },
-    { "file": "03-quote.png", "type": "quote", "title": "세탁보다 중요한 건\n*완전한 건조*", "subtitle": "겉만 마르고 속이 축축하면 눅눅함이 남아요" }
-  ]
-}
